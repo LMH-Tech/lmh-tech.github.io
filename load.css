@@ -1,0 +1,24 @@
+body {
+  background: #27282D;
+}
+
+#message {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -60px;
+  margin-left: -61px;
+  color: #DD2C58;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  text-align: left;
+  padding: 0;
+  font-size: 32px;
+}
+
+#loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-left: -60px;
+}
